@@ -3,7 +3,7 @@
 
 # Y.A.R.V.I.S.
 
-YARVIS (Yet Another Rather Very Intelligent Sysyem) is a personal assistant, and it is developed in Python.
+YARVIS (Yet Another Rather Very Intelligent System) is a personal assistant, and it is developed in Python.
 
 
 
